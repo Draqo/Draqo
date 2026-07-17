@@ -51,18 +51,27 @@ Universiti Teknikal Malaysia Melaka (UTeM) 计算机科学（互动媒体）专�
 
 
 # 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
 
 以下均为我熟练使用的技能
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Game Design](https://img.shields.io/badge/Game_Design-FF6B00?style=for-the-badge&logo=game-developer&logoColor=white)
+
+### 📱 Augmented Reality
+![AR Foundation](https://img.shields.io/badge/AR_Foundation-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Vuforia](https://img.shields.io/badge/Vuforia-1C5CFF?style=for-the-badge&logo=vuforia&logoColor=white)
+
+### 🎨 Design & Multimedia
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Motion Graphics](https://img.shields.io/badge/Motion_Graphics-FF3366?style=for-the-badge&logo=adobe&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### 💻 Programming & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
