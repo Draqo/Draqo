@@ -6,12 +6,14 @@
 
 Universiti Teknikal Malaysia Melaka (UTeM) 计算机科学（互动媒体）专业学生（2023年至今）。目前平均绩点：2.92。Unity开发者，拥有桌游类游戏开发经验（曾为Workshop II开发过类似《农场主》的资源管理游戏），以及增强现实（AR）开发经验——目前正在为毕业设计制作一个校园AR导航及3D模型指南。热爱互动媒体、游戏设计和沉浸式技术。
 
+
 ---
 
 # 联系方式
 - 手机：60 19 509-9801
 - Email：haoxian52856@gmail.com
 - 微信号：Draqo7878
+
 
 ---
 
@@ -26,16 +28,19 @@ Universiti Teknikal Malaysia Melaka (UTeM) 计算机科学（互动媒体）专�
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
  - 期望城市：北京
 
+
 ---
 
 # 工作经历
 
 无
 
+
 ---
 
 # 开源项目和作品
-（这一段用于放置工作以外的、可证明你的能力的材料）
+- [Git](https://github.com/Draqo/UTeM-Final-Year-Project.git): FTMK 3050 AR Adventure (AR mobile applications)
+
 
 ## 开源项目
 （对于程序员来讲，没有什么比Show me the code能有说服力了）
@@ -43,11 +48,10 @@ Universiti Teknikal Malaysia Melaka (UTeM) 计算机科学（互动媒体）专�
  - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
  - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
 
-## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
+## 技术
+Languages/Frameworks: C++, C#, Java, HTML, CSS, JavaScript, PHP, Python, SQL, Git 
+Tools/Technologies: VS Code, Visual Studio, Eclipse, Unity, GitHub, Draw.io, Figma, Blender, After Effects, Illustrator, Photoshop, Premiere, Android Studio
 
 
 # 技能清单
