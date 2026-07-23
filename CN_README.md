@@ -22,12 +22,8 @@ Universiti Teknikal Malaysia Melaka (UTeM) 计算机科学（互动媒体）专�
  - 吴皓贤/男/2001 
  - 本科/马来西亚马六甲技术大学计算机系（互动媒体）
  - 工作年限：无
- - Github：http://github.com/geekcompany 
-
- - 期望职位：PHP高级程序员，应用架构师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
- - 期望城市：北京
-
+ - Github：https://github.com/Draqo/Draqo.git
+ - 期望职位：软件工程师， 游戏开发工程师， 互动媒体/数字内容制作人
 
 ---
 
@@ -35,47 +31,52 @@ Universiti Teknikal Malaysia Melaka (UTeM) 计算机科学（互动媒体）专�
 
 无
 
-
 ---
 
 # 开源项目和作品
-- [Git](https://github.com/Draqo/UTeM-Final-Year-Project.git): FTMK 3050 AR Adventure (AR mobile applications)
+[FTMK 3050 AR Adventure](https://github.com/Draqo/UTeM-Final-Year-Project.git) | Final Year Project
 
+Unity, C#, AR Foundation, Blender
 
-## 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
+Develop an augmented reality (AR) mobile application to transform a traditional FTMK campus visit into an interactive sci-fi adventure experience. Users can unlock 3D models, audio guides, a quest system, and track their exploration progress on a map by scanning markers within the campus.
 
- - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
- - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-
-
-## 技术
-Languages/Frameworks: C++, C#, Java, HTML, CSS, JavaScript, PHP, Python, SQL, Git 
-Tools/Technologies: VS Code, Visual Studio, Eclipse, Unity, GitHub, Draw.io, Figma, Blender, After Effects, Illustrator, Photoshop, Premiere, Android Studio
-
+---
 
 # 技能清单
 
 以下均为我熟练使用的技能
 
-### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Game Design](https://img.shields.io/badge/Game_Design-FF6B00?style=for-the-badge&logo=game-developer&logoColor=white)
+### 💻 Languages & Frameworks
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📱 Augmented Reality
+### 🛠️ Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎮 Game Development & AR
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![AR Foundation](https://img.shields.io/badge/AR_Foundation-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Vuforia](https://img.shields.io/badge/Vuforia-1C5CFF?style=for-the-badge&logo=vuforia&logoColor=white)
 
 ### 🎨 Design & Multimedia
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Motion Graphics](https://img.shields.io/badge/Motion_Graphics-FF3366?style=for-the-badge&logo=adobe&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-### 💻 Programming & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 ---
 
